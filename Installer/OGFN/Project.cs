@@ -3,8 +3,8 @@
     class Project
     {
         public static string Name = "Eon"; // The name of the project. Example: Eon
-        public static string Build = "11.31"; // The version number you are using. Example: 11.31
-        public const int FNBuild = 10; // Use the numbers from the list below to select the desired version.
+        public static string Build = "12.41"; // The version number you are using. Example: 11.31
+        public const int FNBuild = 13; // Use the numbers from the list below to select the desired version.
     }
 }
 
