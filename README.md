@@ -2,6 +2,11 @@
 # FN Build Installer - Universal
 - A simple build installer for your desired Fortnite version. Feel free to contribute.
 ---
+## How to Use:
+1. Open **Project.cs**.
+2. Modify the `Name` and `Build` fields to your preferred values.
+3. To update the actual installation, change `FNBuild` to the corresponding number indicated in the commented text below.
+---
 ## Possible Solutions for Bugs & Errors:
 - If the **Build Installer** doesn’t open, [**Click Here**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.16-windows-x64-installer).
 ---
